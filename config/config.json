@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "MySqL@2024#Strong!",
+    "database": "2fa_database",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
