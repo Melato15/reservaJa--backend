@@ -10,8 +10,8 @@ const sequelize = new Sequelize({
   dialect: "mysql",
   host: "localhost",
   username: "root",
-  password: "MySqL@2024#Strong!",
-  database: "2fa_database",
+  password: "3d4f5y62d",
+  database: "reserva_ja",
 });
 
 sequelize
