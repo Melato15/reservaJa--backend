@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/Melato15/reservaja--backend#readme",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "body-parser": "^1.20.2",
     "express": "^4.19.2",
-    "mysql2": "^2.3.3",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.6",
     "sequelize": "^6.37.3"
   }
 }

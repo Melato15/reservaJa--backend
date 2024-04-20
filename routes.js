@@ -1,11 +1,12 @@
-const express = require("express");
-const UserController = require("./controllers/userController");
-
+const express = require('express');
 const router = express.Router();
+const authController = require('./controllers/authController');
+const { verifyToken } = require('./middlewares/authMiddleware');
 
-router.get("/users", UserController.getAllUsers);
-router.post("/users", UserController.createUser);
-router.put("/users/:id", UserController.updateUser);
-router.delete("/users/:id", UserController.deleteUser);
+router.post("/login", authController.login);
+
+router.get("protected-route", verifyToken, (req, res) => {
+  res.json({ message: "Rota protegida acessada com sucesso.", userName: req.userName });
+});
 
 module.exports = router;
