@@ -12,6 +12,7 @@ const sequelize = new Sequelize({
 const models = {
   User: require("./user")(sequelize, Sequelize),
   Room: require("./room")(sequelize, Sequelize),
+  TableRoom: require("./tableRoom")(sequelize, Sequelize),
 };
 
 Object.values(models)
