@@ -7,6 +7,7 @@ module.exports = (sequelize, DataTypes) => {
     {
       column: DataTypes.NUMBER,
       line: DataTypes.NUMBER,
+      objetoAuxiliar: DataTypes.BOOLEAN,
     },
     {
       sequelize,
