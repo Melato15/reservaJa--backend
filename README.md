@@ -55,7 +55,7 @@ node app.js
 ```
 
 ### Acessar o Projeto
-Depois de executar o comando yarn serve ou npm run serve, abra o postman e acesse:
+Depois de executar o comando node app.js, abra o postman e acesse:
 
 ```bash
 http://localhost:3000/
