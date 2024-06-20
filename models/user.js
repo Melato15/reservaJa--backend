@@ -1,13 +1,15 @@
 "use strict";
 const { Model } = require("sequelize");
-const bcrypt = require("bcrypt")
+const bcrypt = require("bcrypt");
 
 module.exports = (sequelize, DataTypes) => {
   class User extends Model {
-    static associate(models) {}
+    static associate(models) {
+      User.hasMany(models.UserReserveTableRoom, { foreignKey: "userId" });
+    }
 
     static async authenticate(email, password) {
-      const user = await this.findOne({where: { email } });
+      const user = await this.findOne({ where: { email } });
       if (!user) {
         return null;
       }

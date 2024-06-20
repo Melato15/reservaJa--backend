@@ -10,7 +10,7 @@ const sequelize = new Sequelize({
   dialect: "mysql",
   host: "localhost",
   username: "root",
-  password: "",
+  password: "MySqL@2024#Strong!",
   database: "reserva_ja",
 });
 
