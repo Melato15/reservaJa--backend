@@ -1,0 +1,19 @@
+2024-08-12T23:34:05.612Z [info]: GET /rooms - Iniciando busca por todas as salas
+2024-08-12T23:34:29.023Z [info]: GET /rooms - Iniciando busca por todas as salas
+2024-08-12T23:34:33.425Z [info]: GET /rooms - Iniciando busca por todas as salas
+2024-08-12T23:34:37.295Z [info]: GET /rooms - Iniciando busca por todas as salas
+2024-08-12T23:34:37.982Z [info]: GET /rooms - Iniciando busca por todas as salas
+2024-08-12T23:34:38.554Z [info]: GET /rooms - Iniciando busca por todas as salas
+2024-08-12T23:34:39.212Z [info]: GET /rooms - Iniciando busca por todas as salas
+2024-08-12T23:34:40.005Z [info]: GET /rooms - Iniciando busca por todas as salas
+2024-08-12T23:34:40.847Z [info]: GET /rooms - Iniciando busca por todas as salas
+2024-08-12T23:36:33.786Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-12T23:36:33.792Z [info]: GET /rooms - Salas encontradas:
+2024-08-12T23:37:03.150Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-12T23:37:03.155Z [error]: GET /rooms - Erro ao buscar salas:
+2024-08-12T23:38:48.296Z [debug]: GET /rooms/user/1 - Iniciando busca de salas para usuário
+2024-08-12T23:38:48.309Z [warn]: GET /rooms/user/1 - Nenhuma sala encontrada para o usuário
+2024-08-12T23:43:11.992Z [info]: Servidor rodando na porta 3000
+2024-08-12T23:43:12.018Z [info]: Conexão com o banco de dados estabelecida com sucesso.
+2024-08-12T23:43:51.181Z [info]: Servidor rodando na porta 3000
+2024-08-12T23:43:51.194Z [critical]: Erro ao conectar ao banco de dados:
