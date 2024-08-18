@@ -17,3 +17,79 @@
 2024-08-12T23:43:12.018Z [info]: Conexão com o banco de dados estabelecida com sucesso.
 2024-08-12T23:43:51.181Z [info]: Servidor rodando na porta 3000
 2024-08-12T23:43:51.194Z [critical]: Erro ao conectar ao banco de dados:
+2024-08-18T23:28:12.136Z [info]: Servidor rodando na porta 3000
+2024-08-18T23:28:12.176Z [critical]: Erro ao conectar ao banco de dados:
+2024-08-18T23:29:00.061Z [info]: Servidor rodando na porta 3000
+2024-08-18T23:29:00.095Z [critical]: Erro ao conectar ao banco de dados:
+2024-08-18T23:29:55.908Z [info]: Servidor rodando na porta 3000
+2024-08-18T23:29:55.951Z [info]: Conexão com o banco de dados estabelecida com sucesso.
+2024-08-18T23:31:38.559Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:31:38.573Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:31:39.188Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:31:39.190Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:31:40.590Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:31:40.591Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:32:20.597Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:32:20.601Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:36:28.913Z [info]: Servidor rodando na porta 3000
+2024-08-18T23:36:28.955Z [info]: Conexão com o banco de dados estabelecida com sucesso.
+2024-08-18T23:38:48.148Z [info]: Servidor rodando na porta 3000
+2024-08-18T23:38:48.188Z [info]: Conexão com o banco de dados estabelecida com sucesso.
+2024-08-18T23:39:23.145Z [info]: Servidor rodando na porta 3000
+2024-08-18T23:39:23.186Z [info]: Conexão com o banco de dados estabelecida com sucesso.
+2024-08-18T23:39:29.932Z [info]: Servidor rodando na porta 3000
+2024-08-18T23:39:29.973Z [info]: Conexão com o banco de dados estabelecida com sucesso.
+2024-08-18T23:39:40.206Z [info]: Servidor rodando na porta 3000
+2024-08-18T23:39:40.246Z [info]: Conexão com o banco de dados estabelecida com sucesso.
+2024-08-18T23:39:43.371Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:39:43.378Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:39:45.160Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:39:45.162Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:42:38.804Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:42:38.808Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:42:40.127Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:42:40.128Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:44:13.464Z [info]: Servidor rodando na porta 3000
+2024-08-18T23:44:13.508Z [info]: Conexão com o banco de dados estabelecida com sucesso.
+2024-08-18T23:44:30.439Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:44:30.447Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:44:31.455Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:44:31.458Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:44:32.419Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:44:32.420Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:44:33.236Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:44:33.237Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:44:45.688Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:44:45.691Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:45:07.702Z [info]: Servidor rodando na porta 3000
+2024-08-18T23:45:07.745Z [info]: Conexão com o banco de dados estabelecida com sucesso.
+2024-08-18T23:45:11.108Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:45:11.119Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:49:17.720Z [info]: Servidor rodando na porta 3000
+2024-08-18T23:49:17.761Z [info]: Conexão com o banco de dados estabelecida com sucesso.
+2024-08-18T23:49:37.049Z [info]: Servidor rodando na porta 3000
+2024-08-18T23:49:37.091Z [info]: Conexão com o banco de dados estabelecida com sucesso.
+2024-08-18T23:50:42.769Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:50:42.777Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:51:58.817Z [debug]: GET /rooms/user/1 - Iniciando busca de salas para usuário
+2024-08-18T23:51:58.825Z [warn]: GET /rooms/user/1 - Nenhuma sala encontrada para o usuário
+2024-08-18T23:52:18.141Z [debug]: GET /rooms/user/1 - Iniciando busca de salas para usuário
+2024-08-18T23:52:18.145Z [warn]: GET /rooms/user/1 - Nenhuma sala encontrada para o usuário
+2024-08-18T23:52:18.710Z [debug]: GET /rooms/user/1 - Iniciando busca de salas para usuário
+2024-08-18T23:52:18.712Z [warn]: GET /rooms/user/1 - Nenhuma sala encontrada para o usuário
+2024-08-18T23:52:19.230Z [debug]: GET /rooms/user/1 - Iniciando busca de salas para usuário
+2024-08-18T23:52:19.231Z [warn]: GET /rooms/user/1 - Nenhuma sala encontrada para o usuário
+2024-08-18T23:52:19.755Z [debug]: GET /rooms/user/1 - Iniciando busca de salas para usuário
+2024-08-18T23:52:19.757Z [warn]: GET /rooms/user/1 - Nenhuma sala encontrada para o usuário
+2024-08-18T23:52:40.606Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:52:40.609Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:53:04.447Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:53:04.449Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:53:37.026Z [debug]: GET /rooms/user/10 - Iniciando busca de salas para usuário
+2024-08-18T23:53:37.029Z [warn]: GET /rooms/user/10 - Nenhuma sala encontrada para o usuário
+2024-08-18T23:54:02.118Z [debug]: GET /rooms - Iniciando busca por todas as salas
+2024-08-18T23:54:02.123Z [info]: GET /rooms - Salas encontradas:
+2024-08-18T23:55:21.682Z [debug]: GET /rooms/user/20 - Iniciando busca de salas para usuário
+2024-08-18T23:55:21.685Z [warn]: GET /rooms/user/20 - Nenhuma sala encontrada para o usuário
+2024-08-18T23:55:28.761Z [debug]: DELETE /rooms/1 - Iniciando exclusão da sala
+2024-08-18T23:55:28.762Z [info]: DELETE /rooms/1 - Sala deletada com sucesso
