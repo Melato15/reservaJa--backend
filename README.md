@@ -61,7 +61,7 @@ Depois de executar o comando node app.js, abra o postman e acesse:
 http://localhost:3000/
 ```
 
-## Uso de Logs
+### Uso de Logs
 
 Para entender como os logs são utilizados no projeto, assista ao vídeo a seguir:
 
