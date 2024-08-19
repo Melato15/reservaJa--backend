@@ -1,6 +1,6 @@
 # ReservaJá
 
-Esse projeto esta sendo desenvolvido por Lucas Martins Venero, Gustavo Chavez, Guilherme Melato, Michael Varaldo, Filipe Ourlamunder e Cristian Domingues
+Esse projeto esta sendo desenvolvido por Lucas Martins Venero, Gustavo Chaves, Guilherme Melato, Michael Varaldo, Filipe Ourlamunder e Cristian Domingues
 
 ## Instruções de Instalação
 
