@@ -61,6 +61,12 @@ Depois de executar o comando node app.js, abra o postman e acesse:
 http://localhost:3000/
 ```
 
+## Uso de Logs
+
+Para entender como os logs são utilizados no projeto, assista ao vídeo a seguir:
+
+[Como é registrado os logs](https://drive.google.com/file/d/10wwv3Hkd3tGAciO64_BA2fe2V0peFusI/view?usp=drive_link)
+
 ### Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato pelo email: gustavojchaves1@gmail.com
 
